@@ -16,6 +16,7 @@ https://github.com/rst-tu-dortmund/teb_local_planner
 ## 代码运行
 
 代码运行成功时，会出现一个窗口和两个滑动条，通过滑动条可以控制起始点和目标点的角度，从而控制轨迹的形状。
+![example](example.png)
 
 
 ## teb库调用流程
